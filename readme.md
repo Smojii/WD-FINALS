@@ -6,7 +6,7 @@
 <div align="center">
   <a href="https://github.com/Smojii">
   <!-- TODO: If you want to add logo or banner you can add it here -->
-    <img src="./assets/img/pic.jpg"  width="300" height="200">
+    <img src="./assets/img/pic.jpg"  width="350" height="200">
   </a>
 <!-- TODO: Change Title to the name of the title of your Project -->
   <h3 align="center">Final Project</h3>
@@ -73,7 +73,7 @@ The technologies I utilized were CSS and HTML. I designed the contents using CSS
 - Navbar
 
 ## Deployment Link
-
+  https://smojii.github.io/WD-Finals/
 ## Links of other Projects
   - Seatwork 2
     https://smojii.github.io/WD-Seatwork-2-TX03/
@@ -127,4 +127,9 @@ WD-ProjectName
 <!-- TODO: Add References -->
 | Title | Purpose | Link |
 |-|-|-|
-| Sample Title | Sample purpose would be here like this and this is the example of what it is. | trykolang.com |
+| Build a Responsive Personal Portfolio Website Using HTML CSS Javascript | Project Template | https://www.youtube.com/watch?v=IKOwKiVt_x8&t=184s |
+| Responsive Service Box Using CSS Grid Layout | Used on Skills and Interests | https://www.youtube.com/watch?v=ZPb10kOQv0c |
+| Movie-Style Scrolling Credits text for your Website | Used on Credits Page | https://www.youtube.com/watch?v=AoIOv7Ulcz8 |
+| Build a Spotify Clone with HTML & CSS | Card on Project Page | https://www.youtube.com/watch?v=xVZqEmRQjLM |
+| Pinterest | Soure of Image | https://ph.pinterest.com |
+| dafont.com | Text Font | https://www.dafont.com/theme.php?cat=606 |
