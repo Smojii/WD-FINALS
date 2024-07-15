@@ -76,15 +76,15 @@ The technologies I utilized were CSS and HTML. I designed the contents using CSS
   https://smojii.github.io/WD-Finals/
 ## Links of other Projects
   - Seatwork 2
-    https://smojii.github.io/WD-Seatwork-2-TX03/
+    https://github.com/Smojii/WD-Seatwork-2-TX03
   - Midterms
-    https://smojii.github.io/WD-Midterm/
+    https://github.com/Smojii/WD-Midterm
   - Seatwork 3
-    https://smojii.github.io/WD-Seatwork-3-TX03/
+    https://github.com/Smojii/WD-Seatwork-3-TX03
   - Hands on 2
-    https://smojii.github.io/WD-Hands-on-2/
+    https://github.com/Smojii/WD-Hands-on-2
   - Seatwork 4
-    https://smojii.github.io/WD-Seatwork-4/
+    https://github.com/Smojii/WD-Seatwork-4
 ## WakaTime
   https://wakatime.com/@Joms/projects/oxdxynozzc?start=2024-07-09&end=2024-07-15
 
