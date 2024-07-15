@@ -59,7 +59,7 @@
 <!-- The following are just sample -->
 This final project is to create a resume with 5 contents. It must showcase past projects, so that we can see how well we improve our skills on every activity.
 
-The Key components in my project is how I use shadow boxes, hover effects and keyframes. You can those components from the start and up until the end.
+The Key components in my project is how I use shadow boxes, hover effects and keyframes. You can see those components from the start and up until the end.
 
 The technologies I utilized were CSS and HTML. I designed the contents using CSS and utilized HTML for the website's structure and content.
 
