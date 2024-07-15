@@ -6,7 +6,7 @@
 <div align="center">
   <a href="https://github.com/Smojii">
   <!-- TODO: If you want to add logo or banner you can add it here -->
-    <img src="./assets/img/pic.jpg"  width="350" height="200">
+    <img src="./assets/img/pic.jpg"  width="130" height="100">
   </a>
 <!-- TODO: Change Title to the name of the title of your Project -->
   <h3 align="center">Final Project</h3>
